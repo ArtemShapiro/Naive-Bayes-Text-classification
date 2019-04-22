@@ -1,0 +1,6 @@
+environment/
+orl_faces/
+.ipynb_checkpoints/
+
+*.npy
+*.csv
